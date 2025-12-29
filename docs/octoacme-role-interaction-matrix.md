@@ -106,7 +106,7 @@ This document clarifies collaboration touchpoints, communication flows, and hand
 | Test Planning | C | I | C | C | **R** | I | C | I |
 | Change Evaluation | C | C | C | C | C | C | C | **R** |
 | Deployment | C | I | I | C | C | I | **R** | C |
-| Release Sign-off | **R** | I | **A** | I | C | I | C | C |
+| Release Sign-off | C | I | **A** | I | C | I | C | C |
 | Risk Management | **R** | C | C | C | C | C | C | C |
 
 **Legend:**
