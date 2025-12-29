@@ -16,9 +16,15 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Product Owner (PO): represents customer voice, prioritizes backlog, makes acceptance decisions.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Business Analyst (BA): bridges business and technical teams, translates requirements.
+- Quality Assurance Lead (QA Lead): owns testing strategy, ensures quality standards.
+- DevOps Engineer: manages CI/CD, infrastructure, and deployment automation.
+- Change Manager: oversees change requests, ensures impact analysis and approval.
 - Stakeholders: provide inputs and approvals.
+
+See [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md) for detailed role descriptions and interactions.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +50,9 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+## Additional Resources
+- [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md) - Detailed role descriptions, responsibilities, and interactions
+- [OctoAcme Role Interaction Matrix](./octoacme-role-interaction-matrix.md) - Collaboration patterns, hand-offs, and RACI matrix
+- [OctoAcme Role Onboarding Checklist](./octoacme-role-onboarding-checklist.md) - Onboarding guide for new team members
+- [OctoAcme Execution and Tracking](./octoacme-execution-and-tracking.md) - Day-to-day execution guidance
